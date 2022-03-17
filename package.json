@@ -1,10 +1,21 @@
 {
   "name": "MMM-GoogleMapsTraffic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A module that displays a map, centered at provided coordinates, with Google Maps Traffic information.",
   "main": "MMM-GoogleMapsTraffic.js",
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doctorfree/MMM-GoogleMapsTraffic.git"
+  },
+  "keywords": [
+    "MagicMirror",
+    "Google",
+    "Traffic",
+    "Maps"
+  ],
+  "author": "Ronald Joe Record",
   "license": "MIT",
+  "homepage": "https://github.com/doctorfree/MMM-GoogleMapsTraffic",
   "devDependencies": {
     "grunt": "latest",
     "grunt-eslint": "latest",
@@ -16,7 +27,6 @@
     "time-grunt": "latest"
   },
   "dependencies": {
-    "fs": "latest",
     "path": "latest"
   }
 }

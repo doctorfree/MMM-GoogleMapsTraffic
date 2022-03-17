@@ -6,7 +6,7 @@ A module for the [MagicMirror²](https://github.com/MichMich/MagicMirror/) that 
 
 ## Installation
 
-1. Navigate into your MagicMirror's `~/MagicMirror/modules` folder and execute `git clone https://github.com/vicmora/MMM-GoogleMapsTraffic.git`. A new folder will appear navigate into it.
+1. Navigate into your MagicMirror's `~/MagicMirror/modules` folder and execute `git clone https://github.com/doctorfree/MMM-GoogleMapsTraffic.git`. A new folder will appear navigate into it.
 2. Execute `npm install` in `~/MagicMirror/modules/MMM-GoogleMapsTraffic` to install the node dependencies.
 
 ## Using the module
@@ -75,5 +75,4 @@ The easiest way to create your own styled map is via [Google Maps APIs Styling W
 ## Dependencies
 
 Installed via `npm install`:
-- fs
 - [path](https://www.npmjs.com/package/path)
